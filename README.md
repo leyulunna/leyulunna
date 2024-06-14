@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Lena Zhang 👩‍💻
+🧪 Working on the following solo projects
+  - EasySchool Web Application - a school management system using the Java Spring Framework
+  - Movie Favorites App - a Python based application designed to manage a user’s favorite movies
+👩🏻‍🎓 Studying Master of Science in Information Systems at Northeastern University
+🧑‍💻 Served as the Operations Lead for the Northeastern Seattle Women in Tech
+🐱‍💻 Co-Leading weekly LeetCode practice sessions (Welcome tech ppl to join)
+
+## My Github Statistics
+### GitHub stats
+[![leyulunna's GitHub stats](https://github-readme-stats.vercel.app/api?username=leyulunna&show_icons=true&theme=highcontrast&include_all_commits=true)](https://github.com/leyulunna/github-readme-stats)
 
 <!--
 **leyulunna/leyulunna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

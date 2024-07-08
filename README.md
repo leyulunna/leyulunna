@@ -1,6 +1,15 @@
 <div align="left">
   <h2>Hi, I'm Lena Zhang</h2>
-  <p>👩‍💻 Full Stack Developer (Java and Typescript with React, Angular Framework)</p>
+  <p>👩‍💻 Full Stack Developer (Java and JavaScript, Typescript with React, Angular Framework)</p>
+
+  <p>🧑‍🤝‍🧑 Working on the following group projects:</p>
+  <ul>
+    <li>
+      2024 Summer TikTok Jam Hackathon - Scriptly 
+      (<a href="https://devpost.com/software/scriptly">Project Demo</a>, 
+      <a href="https://github.com/[your-github-repo]">GitHub Repo</a>) - Users can answer several questions and view AI assistant-generated scripts, and display the content.
+    </li>
+  </ul>
   
   <p>🧪 Working on the following solo projects:</p>
    <ul>

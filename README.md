@@ -2,7 +2,7 @@
   <h2>Hi, I'm Lena Zhang</h2>
   <p>👩‍💻 Full Stack Developer (Java and JavaScript, Typescript with React, Angular Framework)</p>
 
-  <p>🧑‍🤝‍🧑 Working on the following group projects:</p>
+  <p>🧑‍🤝‍🧑 Group projects:</p>
   <ul>
     <li>
       2024 Summer TikTok Jam Hackathon - Scriptly 
@@ -20,8 +20,6 @@
   <p>👩🏻‍🎓 Studying Master of Science in Information Systems at Northeastern University</p>
   
   <p>🧑‍💻 Served as the Operations Lead for the Northeastern Seattle Women in Tech</p>
-  
-  <p>🐱‍💻 Co-Leading weekly LeetCode practice sessions (Welcome tech ppl to join)</p>
   
   <h3>Leetcode with me</h3>
   <p>

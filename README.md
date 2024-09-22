@@ -17,7 +17,7 @@
     <li>Movie Favorites App - a Python-based application designed to manage a user’s favorite movies</li>
   </ul>
   
-  <p>👩🏻‍🎓 Studying Master of Science in Information Systems at Northeastern University</p>
+  <p>👩🏻‍🎓 Studying Master of Science in Computer Software Engineering at Northeastern University</p>
   
   <p>🧑‍💻 Served as the Operations Lead for the Northeastern Seattle Women in Tech</p>
   
